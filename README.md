@@ -30,8 +30,8 @@ J'ai documenté l'évolution du design à travers plusieurs versions. Voici un r
 
 | Version | Date | Modifications | Capture d'écran |
 |---------|------|---------------|-----------------|
-| Version 1 | 2020 | Première version du site web avec une mise en page simple et une liste de produits basique (Avec Drupal 8)| ![Version 1](before/2019_Home.jpg) |
-| Version 2 | 2022 | Première refonte avec des améliorations sur le design, la navigation et la mise à jour des informations produits pendant un an (Avec Drupal 8)| ![Version 2](before/2021_Home.png) |
+| Version 1 | 2020 | Première version du site web avec une mise en page simple et une liste de produits basique (Avec Drupal 8)| ![Version 1](Before/2019_Home.jpg) |
+| Version 2 | 2022 | Première refonte avec des améliorations sur le design, la navigation et la mise à jour des informations produits pendant un an (Avec Drupal 8)| ![Version 2](Before/2021_Home.png) |
 | Version 3 | 2023 | Refonte complète du site web avec migration vers Wix, intégration de tous les produits et services, amélioration de l'ergonomie et optimisation des performances | ![Version 3](Home/2023_Home.png) |
 | Version 4 | 2024 | Amélioration de la page d'accueil pour un design plus attrayant et fonctionnel, ajout d'un blog mis à jour tous les deux mois, modernisation des boutons et des formes avec la police Sora | ![Version 4](Home/2024_Home.png) |
 | Version 5 | 2025 | Intégration d'une section 3D sur la page design, refonte du footer, modification de la couleur principale (remplacement du noir par #1A1A1A), amélioration de la section témoignages pour plus de clarté et d'autres mises à jour à venir | ![Version 5](Home/HomeButtom_2025.jpg) |
